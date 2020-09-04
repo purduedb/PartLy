@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a4c741d-1122-4a9e-b9cd-991ba812143f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interactive.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interactive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/make_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/make_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PartLy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/PartLy/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/PartLy/environment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/multi_discrete.py" beforeDir="false" afterPath="$PROJECT_DIR$/PartLy/multi_discrete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/PartLy/policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/quickstart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/rendering.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/scenario.py" beforeDir="false" afterPath="$PROJECT_DIR$/PartLy/scenario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/scenarios/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PartLy/scenarios/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/scenarios/simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/PartLy/scenarios/Partitioner_Pk2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/scenarios/simple_adversary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/scenarios/simple_crypto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/scenarios/simple_push.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/scenarios/simple_reference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/scenarios/simple_speaker_listener.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/scenarios/simple_spread.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/scenarios/simple_tag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiagent/scenarios/simple_world_comm.py" beforeDir="false" afterPath="$PROJECT_DIR$/PartLy/scenarios/Scheduler_Partitioner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d662605a-40ce-4157-b416-a78c5121773d" />
+  <component name="ProjectId" id="1gsRFIKsvyya9d4SovFHfU2ykHb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/multiagent" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PartLy-multiagent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PartLy-multiagent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a4c741d-1122-4a9e-b9cd-991ba812143f" name="Default Changelist" comment="" />
+      <created>1598901207666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598901207666</updated>
+      <workItem from="1598901209929" duration="159000" />
+      <workItem from="1598901632069" duration="28011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="79" key="#Inspections" timestamp="1599170166822">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="274" y="79" key="#Inspections/0.23.1280.739@0.23.1280.739" timestamp="1599170166822" />
+    <state x="378" y="148" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599222555089">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="378" y="148" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.739@0.23.1280.739" timestamp="1599222555089" />
+    <state x="348" y="23" width="584" height="739" key="find.popup" timestamp="1599223430243">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="348" y="23" width="584" height="739" key="find.popup/0.23.1280.739@0.23.1280.739" timestamp="1599223430243" />
+  </component>
+</project>
